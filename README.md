@@ -21,3 +21,4 @@ I deploy the latest version of the application directly to github pages.
 - 2017-08-24 - Bumped Deps to latest version (PrimeNG 4.1.3, Angular 4.3.6)
 
 "# AngularWithPrimeNG" 
+
